@@ -6,7 +6,7 @@ url:
 
 ## Mock Up
 
-![Alt text](images/01-html-css-git-homework-demo.png)
+![Sample image of the website](https://github.com/RdySetShine/Refactored-Horiseon-Webpage/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## About
 
