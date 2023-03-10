@@ -114,6 +114,9 @@ p {
     background-color: #2589bd;
 
 }
+
+/* aside content starts here*/
+
 aside {
     margin-bottom: 32px;
     color: #ffffff;
@@ -129,6 +132,8 @@ aside img  {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* aside content ends here*/
 
 /* Footer starts here*/
 
