@@ -9,8 +9,13 @@ url: https://rdysetshine.github.io/Refactored-Horiseon-Webpage/
 
 ## About
 
--
--
--
+- Refactored and Imrpoved the HTML and CSS files with added Notes-Quotes-Adding the ALT attributes describing the page for all people with disabilities
+- Used Semantic Elements for all code to inscrease clarity 
+- Correctly adjusted the links so they work when selected
  
  ## Creit & Resources
+ 
+- url: (https://www.w3schools.com/)
+- Austin Grech
+- Oeegan_Kmel
+- renansm93
